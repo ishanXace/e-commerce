@@ -65,7 +65,7 @@ src/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/digitech-ecommerce.git
+git clone (https://github.com/ishanXace/e-commerce.git)
 cd digitech-ecommerce
 -> npm install
 -> npm run dev
